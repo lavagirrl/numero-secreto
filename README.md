@@ -19,6 +19,9 @@ Nesta aula, você será capaz de:
 - Enviar commits feitos no repositório local para o repositório remoto, utilizando o comando `git push`;
 - Baixar commits do repositório remoto para o repositório local, utilizando o comando `git pull`;
 - Adicionar uma pessoa como colaboradora em um repositório no GitHub, e também aceitar um convite de colaboração recebido.
+- Utilizar o Git pela integração do VSCode, ao invés de utilizar pelo terminal;
+- Entender como acontecem conflitos de códigos em commits que modificam um mesmo arquivo, feitos por pessoas distintas;
+- Identificar e resolver conflitos de maneira manual, editando os arquivos afetados e realizando commits para marcar o conflito como resolvido.
 
 ## Pré-requisitos
 
@@ -53,6 +56,12 @@ Antes de começar, é recomendado possuir um conhecimento básico de linha de co
 9. **Trabalhar com Repositórios Remotos**: Utilize `git remote` para visualizar repositórios remotos, `git push` para enviar commits locais para o repositório remoto e `git pull` para baixar commits do repositório remoto para o local.
 
 10. **Adicionar Colaboradores no GitHub**: Acesse as configurações do seu repositório no GitHub para adicionar colaboradores ou aceitar convites de colaboração.
+
+11. **Integração do Git com VSCode**: Aprenda a utilizar o Git através da integração com o VSCode, explorando as funcionalidades oferecidas pela interface gráfica.
+
+12. **Conflitos de Código**: Entenda como ocorrem conflitos de código quando alterações são feitas por diferentes colaboradores no mesmo arquivo.
+
+13. **Resolução de Conflitos**: Saiba como o Git sinaliza conflitos e aprenda a resolvê-los manualmente, editando os arquivos afetados e realizando commits para marcar o conflito como resolvido.
 
 
 ## Contribuição
