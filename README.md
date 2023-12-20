@@ -11,6 +11,14 @@ Nesta aula, você será capaz de:
 - Configurar suas informações de usuário localmente no Git;
 - Criar um repositório remoto no GitHub;
 - Conectar seu repositório local ao repositório remoto usando comandos como `git init`, `git add`, `git commit`, `git remote add`, e `git push`.
+- - Baixar uma cópia de um repositório hospedado no GitHub para seu computador utilizando o comando `git clone`;
+- Realizar alterações no código de um projeto e registrá-las com commits, utilizando os comandos `git add` e `git commit`;
+- Visualizar quais arquivos foram modificados no repositório local, utilizando o comando `git status`;
+- Listar os commits realizados no repositório, com dados do autor, data e mensagem de cada commit, utilizando o comando `git log`;
+- Visualizar os repositórios remotos linkados com o repositório local, utilizando o comando `git remote`;
+- Enviar commits feitos no repositório local para o repositório remoto, utilizando o comando `git push`;
+- Baixar commits do repositório remoto para o repositório local, utilizando o comando `git pull`;
+- Adicionar uma pessoa como colaboradora em um repositório no GitHub, e também aceitar um convite de colaboração recebido.
 
 ## Pré-requisitos
 
@@ -37,6 +45,15 @@ Antes de começar, é recomendado possuir um conhecimento básico de linha de co
     Substitua `URL_DO_REPOSITORIO` pela URL do repositório que você criou no GitHub.
 
 6. **Conectar o Repositório Local ao Repositório Remoto**: Utilize os comandos `git add`, `git commit`, `git remote add origin`, e `git push` para conectar seu repositório local ao remoto.
+
+7. **Realizar Alterações e Commits**: Faça alterações no código do projeto, adicione os arquivos modificados com `git add` e registre suas alterações com `git commit`.
+
+8. **Verificar o Status e Visualizar Commits**: Use `git status` para ver os arquivos modificados e `git log` para listar os commits realizados.
+
+9. **Trabalhar com Repositórios Remotos**: Utilize `git remote` para visualizar repositórios remotos, `git push` para enviar commits locais para o repositório remoto e `git pull` para baixar commits do repositório remoto para o local.
+
+10. **Adicionar Colaboradores no GitHub**: Acesse as configurações do seu repositório no GitHub para adicionar colaboradores ou aceitar convites de colaboração.
+
 
 ## Contribuição
 
