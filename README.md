@@ -22,6 +22,9 @@ Nesta aula, você será capaz de:
 - Utilizar o Git pela integração do VSCode, ao invés de utilizar pelo terminal;
 - Entender como acontecem conflitos de códigos em commits que modificam um mesmo arquivo, feitos por pessoas distintas;
 - Identificar e resolver conflitos de maneira manual, editando os arquivos afetados e realizando commits para marcar o conflito como resolvido.
+- Reverter mudanças de um commit de maneira automática, utilizando o comando git revert;
+Apagar um determinado commit do histórico, desfazendo automaticamente suas mudanças no código, utilizando o comando git reset;
+Modificar o último commit efetuado, alterando sua mensagem ou modificações no código, utilizando o comando git commit com o parâmetro --amend.
 
 ## Pré-requisitos
 
@@ -62,6 +65,11 @@ Antes de começar, é recomendado possuir um conhecimento básico de linha de co
 12. **Conflitos de Código**: Entenda como ocorrem conflitos de código quando alterações são feitas por diferentes colaboradores no mesmo arquivo.
 
 13. **Resolução de Conflitos**: Saiba como o Git sinaliza conflitos e aprenda a resolvê-los manualmente, editando os arquivos afetados e realizando commits para marcar o conflito como resolvido.
+14. Reverter Mudanças de um Commit: Aprenda a reverter mudanças de um commit de maneira automática utilizando o comando git revert.
+
+15. Apagar um Commit do Histórico: Saiba como apagar um commit específico do histórico, desfazendo suas mudanças automaticamente no código, com o comando git reset.
+
+16. Modificar o Último Commit Efetuado: Entenda como modificar o último commit efetuado, alterando sua mensagem ou modificações no código, utilizando o comando git commit com o parâmetro --amend.
 
 
 ## Contribuição
